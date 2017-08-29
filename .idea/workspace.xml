@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14d4941d-2b0d-4f3f-8b41-6f30d3ad0f8a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/crontab.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/fflookfor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/fwsy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/gethbinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/origin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/export.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/sample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/sample2 - 副本.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/sample2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/php/xx.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/port.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/product.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/qr_active.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/qr_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/qr_add1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/qr_recover.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/shop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/api_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/crontab_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/fflookfor_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/hb_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/origin_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/News_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/TDC_Model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/report_pre_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/sample2_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/sample_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/tally_report_ensure_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/tally_report_master_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/tally_unpacking_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/php/tally_unpacking_search_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/port_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/product_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/qr_active_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/qradd_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/search_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/models/shop_model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/FW_Mobile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/QR_Add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/QR_Export.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/accept_money.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/activeproduct.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/click.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/add.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/city.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/del.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/edit.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/remote1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/student.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/data/student.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/fflookfor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/fw_result.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/fw_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/index1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/input_code.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/input_fwid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/location.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/location_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/location_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/origin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/origin_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/origin_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/add.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/advalid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/basicValid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/city.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/code.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/css.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/del.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/depends.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/dialog-grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/dyna-menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/edit.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/example-dialog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/example.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/fail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/form-dialog-grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/form-grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/grid.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/group.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/import_batch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/introduce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/location_ok1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/net.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/operation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/quick.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/remote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/resource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample2 - 副本.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample2_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample2_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/sample_edit_open.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/second-menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/student.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/student.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/success.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/tally_unpacking_search_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/tally_unpacking_search_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/waybill.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/php/waybill_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/play.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/port.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/port_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/port_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/product.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/product_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/product_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/qr_active.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/qr_activeNo_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/qr_activeTime_search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/qr_recover.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/qrcode_verify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/sample2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/sample2_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/sample2_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/shop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/shop_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/shop_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/view_login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/1goods1code/welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/deling.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/gloabl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/index1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/index3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/css/新建文本文档.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Index_Play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Left_xuxian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Opacity_Bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Pack_up_rules.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Pack_up_rules1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Scan_saomiao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Scan_saomiao备份.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/Yoho_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/aside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/bags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/bgDeal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/bgPic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/char.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_bag_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_bag_open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_bg备份.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_btn_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_btn_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_btn_two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_gift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/index_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/packet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/packet_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/packet_bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/packet_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/regret.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/right_xuxian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/saomiao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/saomiao备份.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/images/tips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/deling.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/OGOC/js/jquery.kxbdMarquee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/fwm3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/fwmreset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a1.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/images/a22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webroot/TDC_Mobile/lightbox.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/goods.php" afterPath="$PROJECT_DIR$/application/controllers/goods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/location.php" afterPath="$PROJECT_DIR$/application/controllers/location.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/login.php" afterPath="$PROJECT_DIR$/application/controllers/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/sample2.php" afterPath="$PROJECT_DIR$/application/controllers/sample2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webroot/CBS_Platform/assets/js/bui-min.js" afterPath="$PROJECT_DIR$/webroot/CBS_Platform/assets/js/bui-min.js" />
+    </list>
+    <ignored path="1goods1code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1goods1code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1934" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d4941d-2b0d-4f3f-8b41-6f30d3ad0f8a" name="Default" comment="" />
+      <created>1486387152632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486387152632</updated>
+      <workItem from="1486387155839" duration="181000" />
+      <workItem from="1486387354128" duration="147000" />
+      <workItem from="1486689681962" duration="59000" />
+      <workItem from="1488794476552" duration="37000" />
+      <workItem from="1489064315124" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/controllers/api.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/api.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/sample2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="906" column="9" selection-start-line="906" selection-start-column="9" selection-end-line="906" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/guid_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/api.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

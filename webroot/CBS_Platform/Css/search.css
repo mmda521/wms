@@ -1,0 +1,184 @@
+html {
+    font-size: 20px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f7f4f4 url("../images/bg.png");
+}
+header {
+    width: 27.05rem;
+    margin: 0 auto;
+}
+header img {
+    width: 27.05rem;
+    height: 7.75rem;
+    margin: 2.6rem auto 0 auto;
+}
+
+.box {
+    width: 22rem;
+    margin: 3.2rem auto 0 2rem;
+}
+/* start draw a triangle */
+.triangle-down {
+    width: 0;
+    height: 0;
+    border-left: 1.5rem solid transparent;
+    border-right: 1.5rem solid transparent;
+    border-top: 2.3rem solid #f39800;
+    display: inline-block;
+    float: left;
+}
+/* start draw a parallelogram */
+.parallelogram {
+    width: 18.4rem;
+    height: 2.3rem;
+    display: inline-block;
+    background-color: #f39800;
+    transform: skew(-30deg);
+    box-shadow: 0 1px 2px #ababab
+}
+/* create a new <p>, which can reverse the distortion */
+.parallelogram p {
+    transform: skew(30deg);
+    margin: 0.5rem auto auto 3.75rem;
+    display: inline-block;
+}
+
+p {
+    margin: 0;
+}
+.code {
+    width: 23.35rem;
+    margin: 3.15rem auto 0 auto;
+}
+.code input {
+    width: 100%;
+    height: 2rem;
+    font-size: 0.8rem;
+    margin-top: 1.2rem;
+}
+.code img {
+    width: 0.9rem;
+    height: 0.9rem;
+    margin: auto;
+}
+.font_16 {
+    font-size: 0.8rem;
+    color: #252525;
+}
+.top_24 {
+    margin-top: 1.2rem;
+}
+.code button {
+    margin-top: 2.3rem;
+    margin-left: 3.5rem;
+}
+.width_500 {
+    width: 25rem;
+    border: dashed 1px #a3a7bd;
+    margin: 3.05rem auto 0 auto;
+}
+.width_500 p {
+    margin: 0.5rem 1.55rem;
+}
+.info {
+    width: 23.35rem;
+    margin: 2.15rem auto 0 auto;
+}
+.p1 {
+    margin-top: 0.5rem;
+}
+.pla_hold {
+    width: 100%;
+    height: 2.6rem;
+}
+
+/* define the basic styles of buttons */
+.button {
+    width: 5.65rem;
+    height: 2.5rem;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: 1rem/100% Arial, Helvetica, sans-serif;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    -webkit-border-radius: 0.1em;
+    -moz-border-radius: 0.1em;
+    border-radius: 0.1em;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px #ababab;
+}
+.button:hover {
+    text-decoration: none;
+}
+.button:active {
+    position: relative;
+    top: 1px;
+}
+/* define finished */
+
+/* define the blue button */
+.blue {
+    color: #fff;
+    border: solid 1px #1f6db6;
+    background: #459ae9;
+;
+    background: -webkit-gradient(linear, left top, left bottom, from(#5aaaf5), to(#328bde));
+    background: -moz-linear-gradient(top, #5aaaf5, #328bde);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#5aaaf5', endColorstr='#328bde');
+}
+.blue:hover {
+    background: #368cdb;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4b9ce7), to(#1a73c6));
+    background: -moz-linear-gradient(top, #4b9ce7, #1a73c6);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#4b9ce7', endColorstr='#1a73c6');
+}
+.blue:active {
+    color: #f1fffd;
+    border: solid 1px #3080ca;
+    background: -webkit-gradient(linear, left top, left bottom, from(#328bde), to(#5aaaf5));
+    background: -moz-linear-gradient(top, #328bde, #5aaaf5);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#328bde', endColorstr='#5aaaf5');
+}
+/* define the white button */
+.white {
+    color: #808494;
+    border: solid 1px #c0c3d2;
+    background: #f7f7fa;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eff0f5));
+    background: -moz-linear-gradient(top, #fff, #eff0f5);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#eff0f5');
+}
+.white:hover {
+    background: #f7f7fa;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f7f4f4), to(#d9dce9));
+    background: -moz-linear-gradient(top, #f7f4f4, #d9dce9);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f4f4', endColorstr='#d9dce9');
+}
+.white:active {
+    color: #64697d;
+    border: #cfd1db;
+    background: -webkit-gradient(linear, left top, left bottom, from(#eff0f5), to(#fff));
+    background: -moz-linear-gradient(top, #eff0f5, #fff);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#eff0f5', endColorstr='#fff');
+}
+
+.info_list {
+    width: 23.35rem;
+    margin: 1.5rem auto 0 auto;
+}
+.info_list ul {
+    list-style: none;
+    line-height: 1.8rem;
+    margin: 0;
+    padding-left: 0;
+}
+.font_20 {
+	font-size: 1rem;
+}
